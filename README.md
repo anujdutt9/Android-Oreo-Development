@@ -1,4 +1,4 @@
-# AndroidO Java Development
+# Android O Java Development
 
 ***This repository contains the basic project implementations for Android Oreo using Java and Android Studio.***
 
