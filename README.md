@@ -14,4 +14,8 @@
 |   3.  | DisplayMessages           | How to display message on button press and toast message.  |   Completed  |
 |   4.  | Images                    | How to display images and change images on button press.   |   Completed  |
 |   5.  | **Currency Converter**    |**Project-1: Currency Converter from EUR to USD and vice-versa.**| Completed |
-|   6.  | | | |
+|   6.  | **NumberShapes**          | **Project-2: Enter a Number and see if it's a Triangular, Square, Both or Neither**.| Completed |
+|   7.  | Layout                    | How to use Relative and Linear Layout for placing objects relatively. |  Completed |
+|   8.  | Camera Access             | How to access camera feed using OpenCV in Android.         |   Completed  |
+|   9.  | **RGB2Grayscale**         | **Project-3: Convert Images from RGB to Grayscale using OpenCV.**|  Completed  |
+|  10.  | | | |
