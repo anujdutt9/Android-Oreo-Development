@@ -19,3 +19,5 @@
 |   8.  | Camera Access             | How to access camera feed using OpenCV in Android.         |   Completed  |
 |   9.  | **RGB2Grayscale**         | **Project-3: Convert Images from RGB to Grayscale using OpenCV.**|  Completed  |
 |  10.  | TextFields                | How to use Text Fields in Android for Username & Password.|   Completed  |
+|  11.  | Animations                | How to add animations to objects like images in Android.  |   Completed  |
+|  12.  | **Tic-Tac-Toe**           | **Project-4: Tic-Tac-Toe game app.**                      |   Completed  |
