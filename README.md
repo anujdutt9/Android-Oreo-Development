@@ -21,3 +21,5 @@
 |  10.  | TextFields                | How to use Text Fields in Android for Username & Password.|   Completed  |
 |  11.  | Animations                | How to add animations to objects like images in Android.  |   Completed  |
 |  12.  | **Tic-Tac-Toe**           | **Project-4: Tic-Tac-Toe game app.**                      |   Completed  |
+|  13.  | Video                     | How to integrate and play video in Android.               |   Completed  |
+|  14.  | **Audio**                 | **Project-5: Music Player App.**                          |   Completed  |
