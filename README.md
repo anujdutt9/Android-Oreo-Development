@@ -6,6 +6,7 @@
 * JDK (latest)
 * Java (latest)
 * Android Studio (latest)
+* OpenCV for Android (latest)
 
 | S.No. |       Project Name        |                           About                            |	  Status    |
 | ----- | ------------------------- | ---------------------------------------------------------- | ------------ |
