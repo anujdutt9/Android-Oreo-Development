@@ -24,3 +24,7 @@
 |  12.  | **Tic-Tac-Toe**           | **Project-4: Tic-Tac-Toe game app.**                      |   Completed  |
 |  13.  | Video                     | How to integrate and play video in Android.               |   Completed  |
 |  14.  | **Audio**                 | **Project-5: Music Player App.**                          |   Completed  |
+|  15.  | ListViews                 | How to use List Views in Android.                         |   Completed  |
+|  16.  | **TimesTable**            | **Project-5: Times Table using List View and SeekBar.**   |   Completed  |
+|  17.  | Timers                    | How to use Timers in Android.                             |   Completed  |
+|  18.  | **Egg Timer**             | **Project-6: Timer app using Button and SeekBar.**        |   Completed  |
