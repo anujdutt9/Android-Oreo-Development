@@ -28,4 +28,4 @@
 |  16.  | **TimesTable**            | **Project-6: Times Table using List View and SeekBar.**   |   Completed  |
 |  17.  | Timers                    | How to use Timers in Android.                             |   Completed  |
 |  18.  | **Egg Timer**             | **Project-7: Timer app using Button and SeekBar.**        |   Completed  |
-|  19.  | | | |
+|  19.  | **Brain Trainer**         | **Project-8: App to solve mathematical problems in given time.**| Completed |
